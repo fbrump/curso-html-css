@@ -22,3 +22,8 @@ h2{
 #tb-nutrientes th{
 	background-color: #FFFFFF;
 }
+
+nav li{
+	display:inline;
+	margin-right:50px;
+}
