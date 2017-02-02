@@ -1,0 +1,13 @@
+body{
+	background-color: #f5f0DC;
+	font-family: Helvetica, Arial, sans-serif;
+	width: 940px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h2{
+	background-color: #83A742;
+	padding: 5px;
+	color: #FFFFFF;
+}
