@@ -23,6 +23,15 @@ h2{
 	background-color: #FFFFFF;
 }
 
+#tb-nutrientes tr:nth-child(odd){
+	background-color: #FFFFFF;
+}
+
+#tb-nutrientes tr:nth-child(even){
+	background-color: #F8EAB3;
+}
+
+
 nav li{
 	display:inline;
 	margin-right:50px;
