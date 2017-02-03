@@ -18,6 +18,21 @@ h2{
 	color: #FFFFFF;
 }
 
+figure{
+	background-color: white;
+	width: 720px;
+	text-align: center;
+	padding:15px;
+	font-family: "Comic Sans MS", cursive;
+	border: 1px solid black;
+	box-shadow: 5px 5px 3px rgba(0,0,0,0.7);
+	-webkit-transform: rotate(-5deg);
+	   -moz-transform: rotate(-5deg);
+	    -ms-transform: rotate(-5deg);
+	     -o-transform: rotate(-5deg);
+	        transform: rotate(-5deg);
+}
+
 #tb-nutrientes{
 	width: 40%;
 	margin-right: auto;
