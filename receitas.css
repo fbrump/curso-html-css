@@ -26,6 +26,9 @@ figure{
 	font-family: "Comic Sans MS", cursive;
 	border: 1px solid black;
 	box-shadow: 5px 5px 3px rgba(0,0,0,0.7);
+}
+
+figure:hover{
 	-webkit-transform: rotate(-5deg);
 	   -moz-transform: rotate(-5deg);
 	    -ms-transform: rotate(-5deg);
