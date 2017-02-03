@@ -8,6 +8,10 @@ body{
 
 h2{
 	background-color: #83A742;
+	background: -moz-linear-gradient(top, #9C8F67, #C7BE9B);
+	background: -webkit-linear-gradient(top, #9C8F67, #C7BE9B);
+	background: -o-linear-gradient(top, #9C8F67, #C7BE9B);
+	background: -ms-linear-gradient(top, #9C8F67, #C7BE9B);
 	padding: 5px;
 	color: #FFFFFF;
 }
